@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm panda
 
-<!--
-**cn-panda/cn-panda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research on code audit, penetration testing and other fields
 
-Here are some ideas to get you started:
+🏣 panda@cnpanda.net
+🔗 https://www.cnpanda.net
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Some of my articles
+
+(【Java 代码审计入门-01】审计前的准备)[ https://www.cnpanda.net/codeaudit/588.html]
+(【Java 代码审计入门-02】SQL 漏洞原理与实际案例介绍 )[https://www.cnpanda.net/codeaudit/600.html]
+(【Java 代码审计入门-03】XSS 漏洞原理与实际案例介绍 )[https://www.cnpanda.net/codeaudit/605.html]
+(【Java 代码审计入门-04】SSRF 漏洞原理与实际案例介绍)[https://www.cnpanda.net/codeaudit/678.html]
+(【seacms 最新版前台注入漏洞】)[https://www.cnpanda.net/codeaudit/730.html]
